@@ -1,0 +1,15 @@
+{
+    "name": "rymar/composer.loc",
+    "authors": [
+        {
+            "name": "Eughene Rymar",
+            "email": "eughene87@ukr.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "monolog/monolog": "1.0.*",
+        "phpunit/php-timer": "1.0.8",
+        "nikic/php-parser": "2.1.1"
+    }
+}
